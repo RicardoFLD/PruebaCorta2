@@ -1,4 +1,4 @@
-﻿// La generación de código T4 está habilitada para el modelo 'C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 3 c#\Pruebas cortas\Prueba_2\Prueba_2\Models\Model1.edmx'. 
+﻿// La generación de código T4 está habilitada para el modelo 'C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 3 c#\Pruebas cortas\Prueba_2\PruebaCorta2\Prueba_2\Models\Model1.edmx'. 
 // Para habilitar la generación de código heredada, cambie el valor de la propiedad del diseñador 'Estrategia de generación de código'
 // por 'ObjectContext heredado'. Esta propiedad está disponible en la ventana Propiedades cuando se abre
 // el modelo en el diseñador.
